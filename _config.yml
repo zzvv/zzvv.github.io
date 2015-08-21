@@ -1,3 +1,5 @@
+timezone: Asia/ChongQing
+
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 pygments: true
@@ -9,7 +11,7 @@ author:                                     #自定义常量
   name: 神经刀
   email:zzcv.sjd@gmail.com
   link: http://2pporg.com
-  github:http://github.com/zzcv
+  github:http://github.com/
 
 title: 神经刀的杂集                             #自定义常量
 description: 神经刀的杂集
