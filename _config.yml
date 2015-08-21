@@ -1,5 +1,3 @@
-timezone: Asia/ChongQing
-
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 pygments: true
