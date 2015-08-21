@@ -9,14 +9,14 @@ kramdown:
 
 author:                                     #自定义常量
   name: 神经刀
-  email:zzcv.sjd@gmail.com
+  email: zzcv.sjd@gmail.com
   link: http://2pporg.com
-  github:http://github.com/
+  github: http://github.com/zzvv
 
 title: 神经刀的杂集                             #自定义常量
 description: 神经刀的杂集
 url: http://2pporg.com
-rss_url:/page/atom.xml
+rss_url: /page/atom.xml
 
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
@@ -29,3 +29,4 @@ ga:
 # disqus 设置
 disqus:
   shortname: suyan-zh
+
